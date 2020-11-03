@@ -1,0 +1,6 @@
+.faq-head > h1 {
+  display: inline-block;
+}
+.faq-body {
+  display: none;
+}
